@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdalidate",
+        "uuid": 3977116,
+        "checksum": "asgi2q"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
